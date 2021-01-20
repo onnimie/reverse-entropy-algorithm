@@ -1,5 +1,5 @@
 # reverse-entropy-algorithm
-Satunnaista pikselikarttaa kehitetään algoritmilla.
+Satunnaista kaksipuolueista pikselikarttaa kehitetään algoritmilla.
 
 Luodaan täysin satunnaisesta pikselikartasta järjestäytyneitä muodostelmia proseduraalisesti algoritmillä, joka tarkastelee kunkin alkion naapureita, jotka puolestaan määräävät pikselin kehityksen.
 
